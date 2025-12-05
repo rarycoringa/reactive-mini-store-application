@@ -1,0 +1,39 @@
+[submodule "broker"]
+	path = broker
+	url = https://github.com/rarycoringa/reactive-broker.git
+[submodule "cloud/api-gateway"]
+	path = cloud/api-gateway
+	url = https://github.com/rarycoringa/reactive-api-gateway.git
+[submodule "cloud/config-files"]
+	path = cloud/config-files
+	url = https://github.com/rarycoringa/reactive-config-files.git
+[submodule "cloud/config-server"]
+	path = cloud/config-server
+	url = https://github.com/rarycoringa/reactive-config-server.git
+[submodule "cloud/discovery-service"]
+	path = cloud/discovery-service
+	url = https://github.com/rarycoringa/reactive-discovery-service.git
+[submodule "justfiles"]
+	path = justfiles
+	url = https://github.com/rarycoringa/reactive-justfiles.git
+[submodule "loadtests"]
+	path = loadtests
+	url = https://github.com/rarycoringa/reactive-loadtests.git
+[submodule "observability"]
+	path = observability
+	url = https://github.com/rarycoringa/reactive-observability.git
+[submodule "services/order"]
+	path = services/order
+	url = https://github.com/rarycoringa/reactive-order-service.git
+[submodule "services/product"]
+	path = services/product
+	url = https://github.com/rarycoringa/reactive-product-service.git
+[submodule "services/payment"]
+	path = services/payment
+	url = https://github.com/rarycoringa/reactive-payment-service.git
+[submodule "services/shipping"]
+	path = services/shipping
+	url = https://github.com/rarycoringa/reactive-shipping-service.git
+[submodule "storage"]
+	path = storage
+	url = https://github.com/rarycoringa/reactive-storage.git
